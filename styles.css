@@ -103,7 +103,7 @@ nav ul li a {
 }
 
 .feature h3 {
-    color: blue;
+    color: red;
     font-size: 22px;
     margin-bottom: 10px;
 }
@@ -154,7 +154,7 @@ nav ul li a {
 
 .product-card button {
     background-color: #FD6F00;
-    color: grey;
+    color: white;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
@@ -164,7 +164,7 @@ nav ul li a {
 /* Footer Section */
 footer {
     background-color: #333;
-    color: grey;
+    color: white;
     text-align: center;
     padding: 20px 0;
     font-size: 0.9rem;
